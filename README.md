@@ -1,4 +1,4 @@
-# AdventureGo - Travel App Concept
+# AdventureGo - Travel App
 
 ## Overview
 
@@ -55,7 +55,7 @@ The goal of this project was to practice designing a modern travel application w
 
 ## Preview
 
-See **ADVENTURE.pdf** for the complete design.
+See **AdventureGO.pdf** for the complete design.
 
 ---
 
